@@ -6,4 +6,4 @@ model:
     files: MANIFEST.yaml
     store: s3h://s3local
   name: model-ex
-  version: 2
+  version: 1
