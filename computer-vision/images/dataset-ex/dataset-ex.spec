@@ -4,6 +4,6 @@ dataset:
   - images
   manifest:
     files: MANIFEST.yaml
-    store: s3h://s3lo
+    store: s3h://s3local
   name: dataset-ex
-  version: 3
+  version: 4
