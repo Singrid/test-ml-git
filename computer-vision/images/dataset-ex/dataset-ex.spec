@@ -6,4 +6,4 @@ dataset:
     files: MANIFEST.yaml
     store: s3h://s3local
   name: dataset-ex
-  version: 4
+  version: 5
